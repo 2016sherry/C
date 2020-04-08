@@ -1,2 +1,2 @@
 # C
-To learn how to write c code
+Some useful and good code  
